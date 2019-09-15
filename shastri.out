@@ -1,35 +1,3 @@
-Name: Meghana Shastri
-Student ID: 2317343
-Class: CPSC 350
-Section: section 2
- 
-the nucleotide sum is 118
-the bigram sum is 236
-the mean is 8.42857
-the variance is 27.7654
-the standard deviation is 5.26929
- 
-the probability of A is 0.288136
-the probability of T is 0.220339
-the probability of G is 0.279661
-the probability of C is 0.211864
- 
-the probability of AA is 0.0338983
-the probability of AT is 0.0423729
-the probability of AG is 0.0466102
-the probability of AC is 0.0127119
-the probability of TA is 0.0254237
-the probability of TT is 0.0127119
-the probability of TG is 0.0254237
-the probability of TC is 0.0423729
-the probability of GA is 0.029661
-the probability of GT is 0.0127119
-the probability of GG is 0.0254237
-the probability of GC is 0.0338983
-the probability of CA is 0.029661
-the probability of CT is 0.0211864
-the probability of CG is 0.0338983
-the probability of CC is 0.0720339
 TACATATGCGGCGA
 GGTGTACGTAAGGACCAATCCT
 
